@@ -10,7 +10,7 @@ export const matches = [
   {
     id: 'm1',
     sport: 'Badminton',
-    title: 'Morning Smash',
+    title: 'Cầu lông dưỡng sinh',
     location: 'Sky Court · Marina Square',
     datetime: '2026-01-14T08:30',
     price: 8,
@@ -25,8 +25,8 @@ export const matches = [
   },
   {
     id: 'm2',
-    sport: 'Football',
-    title: '5v5 Lunchtime Kick',
+    sport: 'Badminton',
+    title: 'Trận đấu bán chuyên',
     location: 'Riverside Turf',
     datetime: '2026-01-14T12:30',
     price: 12,
@@ -42,7 +42,7 @@ export const matches = [
   },
   {
     id: 'm3',
-    sport: 'Running',
+    sport: 'Nhóm chạy bộ',
     title: 'Sunset Tempo Run',
     location: 'Bayfront Loop',
     datetime: '2026-01-14T18:45',
@@ -61,7 +61,7 @@ export const matches = [
   {
     id: 'm4',
     sport: 'Tennis',
-    title: 'Doubles after Work',
+    title: 'Giải trí sau giờ làm',
     location: 'Hillside Courts',
     datetime: '2026-01-15T19:15',
     price: 14,
@@ -77,7 +77,7 @@ export const matches = [
   },
   {
     id: 'm5',
-    sport: 'Pickleball',
+    sport: 'Pickleball cùng tôi',
     title: 'HIIT Power Hour',
     location: 'Lift Lab · District 4',
     datetime: '2026-01-15T07:30',
