@@ -12,5 +12,5 @@ export const formatTime = (iso) =>
   }).format(new Date(iso))
 
 export const formatCurrency = (value) =>
-  value === 0 ? 'Free' : `$${value.toFixed(0)}`
+  value === 0 ? 'Miễn phí' : `${value.toFixed(0)}.000đ`
 

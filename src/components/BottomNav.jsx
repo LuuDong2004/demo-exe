@@ -3,8 +3,8 @@ import { NavLink } from 'react-router-dom'
 const links = [
   { to: '/app/home', label: 'Trang chủ', icon: '🏠' },
   { to: '/app/matches', label: 'Trận đấu', icon: '📅' },
+  { to: '/app/tournaments', label: 'Giải đấu', icon: '🏆' },
   { to: '/app/create', label: 'Tạo trận', icon: '➕' },
-  { to: '/app/courts', label: 'Sân bãi', icon: '🧭' },
   { to: '/app/profile', label: 'Hồ sơ', icon: '👤' },
 ]
 
